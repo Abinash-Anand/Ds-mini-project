@@ -1,0 +1,53 @@
+Roll no. 1  
+Name: Rohan Kumar  
+P.R.N : 2014110898  
+Fee Name: Tution Fee 
+Amount: 60,000
+
+
+Roll no. 2  
+Name: Rahul Prasad  
+P.R.N : 2014110867  
+Fee Name: Exam Fee  
+Amount: 3,960 
+
+
+Roll no. 3  
+Name: Pratik Kumar  
+P.R.N : 2014110956  
+Fee Name: Tution Fee  
+Amount: 60,000 
+
+
+Roll no. 4  
+Name: Rajul Ravi  
+P.R.N : 2014110876  
+Fee Name: Transport Fee  
+Amount: 3,000
+
+
+Roll No. 5  
+Name: Mohit Kumar  
+P.R.N : 2014230867  
+Fee Name: Transport Fee  
+Amount: 3,000
+
+
+Roll No. 6  
+Name: Prakash Ranjan  
+P.R.N : 2014110967  
+Fee Name: Tution Fee  
+Amount: 60,000 
+
+
+Roll No. 23  
+Name: Abinash Anand  
+P.R.N : 2014110844  
+Fee Name: Exam Fee  
+Amount: 3,960  
+
+Roll No. 37  
+Name: Allu Arjun  
+P.R.N : 2014110987  
+Fee Name: Tution Fee  
+Amount: 60,000 
